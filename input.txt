@@ -1,0 +1,4 @@
+int a=9;
+char b;
+int c;
+char d;
